@@ -11,7 +11,7 @@ Experimental details are in:
 [1] R. Datta et al. (2024) PRL. https://doi.org/10.1103/physrevlett.132.155102 and 
 [2] R. Datta, et al. (2024). Phys. Plasmas. https://doi.org/10.1063/5.0201683
 
-Diagnostics details are in Webb, Timothy Jay, et al. Review of Scientific Instruments 94.3 (2023). 10.1063/5.0123448
+Diagnostics details are in Webb, Timothy Jay, et al. Review of Scientific Instruments 94.3 (2023). https://doi.org/10.1063/5.0123448
 
 The diagnostics in MARZ include:
 
