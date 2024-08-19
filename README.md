@@ -26,11 +26,13 @@ The pre-processed spectra are then compared to synthetic spectra to determine de
 
 # (3) X Ray Spectroscopy (XRS3)
 
-Data is stored in TIFF files. Measured spectra are calibrated using teh energies of known lines.
+Data is stored in TIFF files. Measured spectra are calibrated using the energies of known lines.
 
 The spectra are then compared to synthetic spectra to determine density and temperature. This is done using a custom library that solves the 1-D radiation transport equation.
 
 # (4) Ultra Fast Imaging (UXI) Pinhole Cameras
+
+
 
 # (5) Self-Emission Gated Optical Imager (SEGOI)
 
