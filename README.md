@@ -22,7 +22,7 @@ We perfom common mode rejection to find the inductive signal, and integrate the 
 
 # (2) Visible Spectroscopy (SVS)
 
-Data is stored in HDF files. For pre-processing, we need shot data, as well as calibration data, which includes pre-shot laser images, LDLS fast and slow images, and Tungsten lamp images. Details of this pre-processing are provided in M. Schaeuble et al. Phys. Plasmas, 28(6):062902, 2021. https://doi.org/10.1063/5.0047931
+Data is stored in HDF files. For pre-processing, we need shot data, as well as calibration data, which includes pre-shot laser images, LDLS fast and slow images, and Tungsten lamp images. Details of this pre-processing and the SVS systems are provided in M. Schaeuble et al. Phys. Plasmas, 28(6):062902, 2021. https://doi.org/10.1063/5.0047931
 
 The pre-processed spectra are then compared to synthetic spectra to determine density and temperature. This is done using a custom library that solves the 1-D radiation transport equation.
 
