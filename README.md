@@ -32,13 +32,23 @@ The spectra are then compared to synthetic spectra to determine density and temp
 
 # (4) Ultra Fast Imaging (UXI) Pinhole Cameras
 
-
+Data is stored in TIFF files. We vizualize the 2D time-resolved filtered X-ray emission. 
 
 # (5) Self-Emission Gated Optical Imager (SEGOI)
 
+Data is stored in HDF files. SEGOI outputs 2D time-resolved optical emission data, and 1-D space- and time-resolved streak image data.
+
+We vizualize and calibrate the 2D time-resolved optical emission using background pre-shot images.
+
+We also calibrate the streak image data in time and space.
+
 # (6) X Ray Diodes (TADPoles and LOS 170 Silicon Diodes)
 
+Data is stored in CSV files. We vizualize the time-resolved emission data.
+
 # (7) Current Diagnostics (IDTLs, PDV, and Machine B-dots)
+
+Data is stored in CSV files. The data is pre-processed by SNL. 
 
 
 
