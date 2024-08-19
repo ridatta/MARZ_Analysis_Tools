@@ -13,9 +13,14 @@ Experimental details are in:
 
 The diagnostics include:
 
-# (1) Inductive / B-dot Probes:
+# (1) Inductive / B-dot Probes
+
+Data from each probe is stored as .CSV files.
+We perfom common mode rejection to find the inductive signal, and integrate the signal(s) using known calibration factors to determine the magnetic field.
 
 # (2) Visible Spectroscopy (SVS)
+
+Data is stored in HDF files.
 
 # (3) X Ray Spectroscopy (XRS3)
 
