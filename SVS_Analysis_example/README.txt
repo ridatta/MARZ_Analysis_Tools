@@ -16,7 +16,7 @@ Use this code to perform SVS analysis. Note that the experimental SVS data must 
 - Load and visualize the PrismSPECT emissivity and opacity data. 
 - Create an interpolation model to generate  spectral emissivity and opacity value for arbitrary ni and Te.
 - In the current analysis, Prism simulation data for density and temp. in the range 1e16 < ni < 1e19 per cc and 0.5 < Te < 15 eV are used. 
-- Interpolator models are stored in ./models/ and called directly in step (3).
+- Interpolator models are stored in ./models/ and called directly in step (3). Please download these models from https://zenodo.org/records/13351147 and add them to the working directory.
 - These models are stored in radTran.py and called using the getEmi and getOpa functions.
 These functions can be replaced by your own functions that return emissivity and opacity given density and temperature.
 
