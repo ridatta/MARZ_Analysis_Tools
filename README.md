@@ -13,7 +13,7 @@ Experimental details are in:
 
 Diagnostics details are in Webb, Timothy Jay, et al. Review of Scientific Instruments 94.3 (2023). https://doi.org/10.1063/5.0123448
 
-Example data can be downloaded from <zenodo link>.
+Example data can be downloaded from https://zenodo.org/records/13351147.
 
 The diagnostics in MARZ include:
 
