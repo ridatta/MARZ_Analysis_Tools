@@ -23,6 +23,8 @@ Other codes in this folder are helper functions.
 
 Analysis scripts are named as follows SVS<system no.>_marz_<shot no.>.mlx e.g. SVS5_marz1.mlx is SVS5 from MARZ 1.
 
+Note: You may require Sandia's SMASH toolbox for some analysis https://github.com/SMASHtoolbox/release.git 
+
 
 
 Important considerations:
