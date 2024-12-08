@@ -1,4 +1,4 @@
-function out =  processBdotSignalsM2(probe_id,block)
+function out =  processBdotSignalsM4(probe_id,block)
 
  % (1) Load oppositely-polarized signals
  
